@@ -1,9 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DOMALAPALLI NAVEEN
-==========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naveeen Domalapalli
+===========================================================================================================================================
+
+frontend Developer
+------------------
+
+Front-end Developer HTML, CSS, JavaScript enthusiast Passionate about creating seamless, responsive web pages Let's build something amazing!"
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [naveendomalapalli@gmail.com](mailto:naveendomalapalli@gmail.com)
-* 🤝  I'm open to collaborating on projrcts
+* 🧠  I'm learning html ,css ,javascript
+* 🤝  I'm open to collaborating on projects
 
 ### Skills
 
